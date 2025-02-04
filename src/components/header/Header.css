@@ -25,3 +25,7 @@
     border-radius: 25%;
     font-weight: 500;
 }
+.header-ul li:hover{
+    background-color: black;
+    color: white;
+}
